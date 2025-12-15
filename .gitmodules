@@ -1,0 +1,3 @@
+[submodule "requitec"]
+	path = requitec
+	url = https://github.com/jmandevel/requitec
